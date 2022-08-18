@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: org.uma.jmetal.algorithm.multiobjective.nsgaii.NSGAII_CSO_ma
+ in
+
